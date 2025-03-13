@@ -16,7 +16,7 @@ var (
 )
 
 func init() {
-	rl.InitWindow(Wwidth, Wheight, "raylib [core] example - basic window")
+	rl.InitWindow(Wwidth, Wheight, "Pong Golang/Raylib Exemple")
 	rl.SetTargetFPS(30)
 }
 
