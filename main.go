@@ -34,6 +34,10 @@ func input() {
 	}
 }
 
+func collision_handling() {
+
+}
+
 func draw_on_screen() {
 	rl.DrawRectangleRec(rec_left, rl.Lime)
 	rl.DrawRectangleRec(rec_right, rl.Lime)
